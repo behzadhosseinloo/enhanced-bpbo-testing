@@ -1,0 +1,20 @@
+============================================================
+Enhanced BPBO for Test Data Generation
+============================================================
+Population Size: 50
+Max Iterations: 500
+Finding Factor (Pi): 0.7
+Fitness Weights: α=0.6, β=0.15, γ=0.25
+============================================================
+Iter 0: Best Fitness = 0.5946, Coverage = 3/4 paths
+
+All 4 paths covered at iteration 7!
+
+============================================================
+FINAL RESULTS
+============================================================
+Best Fitness: 0.8132
+Paths Covered: 4/4
+Best Test Case: [1 1 1]
+Converged at: 7 generations
+============================================================
